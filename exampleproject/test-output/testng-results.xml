@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12304" started-at="2022-07-01T11:14:53Z" finished-at="2022-07-01T11:15:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12304" started-at="2022-07-01T11:14:53Z" finished-at="2022-07-01T11:15:05Z">
+      <class name="exampleproject.example">
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:exampleproject.example@34033bd0]" name="createUser" duration-ms="2556" started-at="2022-07-01T16:44:53Z" data-provider="provider" finished-at="2022-07-01T16:44:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sha15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shalini]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[anandhan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[shalu12@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[passs2123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[978789076]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:exampleproject.example@34033bd0]" name="createUser" duration-ms="1234" started-at="2022-07-01T16:44:56Z" data-provider="provider" finished-at="2022-07-01T16:44:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shinny67]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shinny]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kutty]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[shinny@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[123434567]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8220908706]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="getUser()[pri:2, instance:exampleproject.example@34033bd0]" name="getUser" duration-ms="2452" started-at="2022-07-01T16:44:57Z" finished-at="2022-07-01T16:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method status="PASS" signature="LoginUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:exampleproject.example@34033bd0]" name="LoginUser" duration-ms="1215" started-at="2022-07-01T16:44:59Z" data-provider="provider" finished-at="2022-07-01T16:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sha15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shalini]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[anandhan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[shalu12@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[passs2123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[978789076]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method status="PASS" signature="LoginUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:exampleproject.example@34033bd0]" name="LoginUser" duration-ms="1203" started-at="2022-07-01T16:45:01Z" data-provider="provider" finished-at="2022-07-01T16:45:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shinny67]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shinny]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kutty]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[shinny@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[123434567]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8220908706]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method status="PASS" signature="UpdateUser()[pri:4, instance:exampleproject.example@34033bd0]" name="UpdateUser" duration-ms="1205" started-at="2022-07-01T16:45:02Z" finished-at="2022-07-01T16:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:5, instance:exampleproject.example@34033bd0]" name="deleteUser" duration-ms="2415" started-at="2022-07-01T16:45:03Z" finished-at="2022-07-01T16:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- exampleproject.example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
